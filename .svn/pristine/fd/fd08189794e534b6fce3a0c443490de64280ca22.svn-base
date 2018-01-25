@@ -1,0 +1,3 @@
+from a HeaderPtr
+	%ld --> (long int)ptr 	and
+	%p	-->ptr				are the same, but displayed with different bases
